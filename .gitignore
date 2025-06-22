@@ -1,0 +1,6 @@
+extratos/
+__pycache__/
+.vscode/
+/*.xlsx
+/*.zip
+/*.ipynb
